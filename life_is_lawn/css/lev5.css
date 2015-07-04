@@ -1,0 +1,43 @@
+*{
+margin: 0;
+padding: 0;}
+
+
+body {
+width: 100%;
+}
+
+.container{
+    width: 1200px;
+    margin: 20px auto;
+    align-content: center;
+    border-color:white;
+    border-width: 1150px;
+    height:600px;
+    border: 10px solid white;
+    background-color: rgba(255,255,255,0.4);}
+
+
+
+/*レイアウト*/
+
+.main{
+    outline:hidden;
+    float:left;
+    width:1200px;
+        margin-right:30px;
+}
+
+.menu ul{
+    text-align: center;
+
+}
+
+img{
+margin: 50px auto; 
+padding-left: 50px;;}
+
+
+/*タイトル*/
+
+
